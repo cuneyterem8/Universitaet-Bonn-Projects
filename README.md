@@ -1,20 +1,16 @@
 # Computer Science Master in University of Bonn
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/uni_bonn.jpg?raw=true">
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/photos/uni_bonn.jpg?raw=true">
 
 The [University of Bonn](https://en.wikipedia.org/wiki/University_of_Bonn) is one of the largest research-based universities in the world. The THE ranking is [89](https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking) and the QS ranking is [201](https://www.topuniversities.com/university-rankings/world-university-rankings/2023) in the world in 2023. 
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/desk.JPEG?raw=true">
+<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/photos/desk.JPEG?raw=true">
 
 Being the best university in Germany in the field of mathematics, Uni of Bonn has also adjusted its computer science department to have a solid mathematical foundation. For this reason, many courses are built on combining heavy mathematical theory and practical coding skills, and the language of instruction is 100% English.
 
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/bonn_diploma.JPEG?raw=true" width="80%" height="70%">
-
-<img src="https://github.com/cuneyterem8/uni_bonn_background/blob/main/diplomas/bonn_transcript_2.JPEG?raw=true" width="80%" height="70%">
-
 ## Lectures, Thesis, Labs, Seminars
 
-I took a total of 120 credits with a total of 14 courses and thesis+seminar from three different fields. All lecture details can be seen in files here with a summary of the content of each one of them. The programming languages in classes are mostly Python and C++. The transcript and diploma supplement can be seen [here](https://github.com/cuneyterem8/uni_bonn_background/tree/main/diplomas)
+I took a total of 120 credits with a total of 14 courses and thesis+seminar from three different fields. All lecture details can be seen in files here with a summary of the content of each one of them. The programming languages in classes are mostly Python and C++. [here](https://github.com/cuneyterem8/uni_bonn_background/tree/main/photos)
 
 
 intelligence systems: [artificial life](https://github.com/cuneyterem8/uni_bonn_background/tree/main/artificial_life), [machine learning](https://github.com/cuneyterem8/uni_bonn_background/tree/main/machine_learning), [neural networks](https://github.com/cuneyterem8/uni_bonn_background/tree/main/neural_networks), [robot learning](https://github.com/cuneyterem8/uni_bonn_background/tree/main/robot_learning), [cognitive robotics](https://github.com/cuneyterem8/uni_bonn_background/tree/main/cognitive_robotics), [cognitive robotics lab](https://github.com/cuneyterem8/uni_bonn_background/tree/main/cognitive_robotics_lab), [humanoid robots lab](https://github.com/cuneyterem8/uni_bonn_background/tree/main/humanoid_robots_lab), [humanoid robots seminar](https://github.com/cuneyterem8/uni_bonn_background/tree/main/humanoid_robots_seminar)
